@@ -1,2 +1,2 @@
 # demo
-This is demo file for basic understanding of git.
+This is demo file for understanding of git.
